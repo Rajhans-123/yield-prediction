@@ -227,3 +227,19 @@ This project is open source and available under the MIT License.
 -   XGBoost Community
 -   LightGBM Community
 -   Open Agricultural Datasets
+
+---
+
+### Dataset
+The dataset **“Crop Yield in Indian States”** by Akshat Gupta ([Kaggle link](https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset)) is licensed under **CC BY-SA 4.0**.  
+You are free to **share and adapt** the dataset as long as you:
+
+1. Give proper **credit** to the original author  
+2. Indicate if **any changes** were made  
+3. Release any derivative datasets under the **same license (CC BY-SA 4.0)**  
+
+---
+
+### How to cite the dataset
+Akshat Gupta. Crop Yield in Indian States Dataset. Kaggle, CC BY-SA 4.0.
+https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset
